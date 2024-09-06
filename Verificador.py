@@ -2,7 +2,9 @@ def count_a_in_string(s):
     count = s.lower().count('a')
     return count
 
-# Adicionado a String
+# Comentario pra atualização no Git Hub
+
+# Adicionado  String
 string = input("Informe uma string: ")
 
 count = count_a_in_string(string)

@@ -1,6 +1,8 @@
 import java.util.Scanner;
    public class Vericador {
-    
+
+    // Comentario pra atualização no Git Hub
+
         public static int countAInString(String s) {
             int count = 0;
             for (char c : s.toLowerCase().toCharArray()) {

@@ -1,5 +1,7 @@
 import java.util.Scanner;
 public class Fibonacci {
+    
+    // Comentario pra atualização no Git Hub
 
     public static boolean isFibonacciNumber(int n) {
         int a = 0, b = 1;

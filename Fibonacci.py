@@ -4,7 +4,8 @@ def is_fibonacci_number(n):
         a, b = b, a + b
     return b == n or n == 0
 
-# Adicionado Número 
+#Comentario pra atualização no Git Hub
+# Adicionado o Número 
 num = int(input("Informe um número: "))
 
 if is_fibonacci_number(num):
